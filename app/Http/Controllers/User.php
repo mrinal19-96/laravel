@@ -9,6 +9,6 @@ class User extends Controller
     //
     public function show(){
         echo "hello";
-        
+        echo "this is mrinal";
     }
 }
